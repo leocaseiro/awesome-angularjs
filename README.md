@@ -30,7 +30,7 @@ Table of contents:
 * [okigan/angular-sensible-seed](https://github.com/okigan/angular-sensible-seed)  - Opinionated AngularJS starter project with per feature directory structure, static content, gulp build system, integrated logo/search/ui-router/ui-bootstrap/less.
 * [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for AngularJS apps.
 * [vesparny/angularjs-playground](https://github.com/vesparny/angularjs-playground) - A starting point that follows best-practices, for being up and running in minutes with AngularJS.
-* [kmaida/reStart-angular](https://github.com/kmaida/reStart-angular) - Responsive AngularJS seed project following styleguide best practices.
+* [kmaida/reStart-angularjs](https://github.com/kmaida/reStart-angularjs) - Responsive AngularJS seed project following styleguide best practices.
 * [StarterSquad/ngSeed](https://github.com/StarterSquad/ngseed) - AngularJS/RequireJS seed project.
 * [tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed) - This is a fork of Angular Seed but with changes needed for requireJS support.
 * [btford/angular-express-blog](https://github.com/btford/angular-express-blog) - Example AngularJS app using an Express + Node.js backend.
